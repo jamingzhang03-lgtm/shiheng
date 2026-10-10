@@ -1,7 +1,7 @@
 {
-  "name": "每日热量账本",
+  "name": "每日热量账本 Pro",
   "short_name": "热量账本",
-  "description": "记录饮食摄入、运动消耗和减脂趋势",
+  "description": "记录饮食、运动、营养素、饮水与趋势",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
