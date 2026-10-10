@@ -1,0 +1,19 @@
+{
+  "name": "每日热量账本",
+  "short_name": "热量账本",
+  "description": "记录饮食摄入、运动消耗和减脂趋势",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#176b57",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
